@@ -1,0 +1,31 @@
+transaction_id,customer_id,customer_name,email,purchase_date,product_category,product_name,quantity,unit_price,total_amount,payment_method,shipping_country,customer_age,discount_percent
+TRX001,C001,John Smith,john@email.com,2024-01-15,Electronics,Laptop,1,999.99,999.99,Credit Card,USA,28,0
+TRX002,C002,Sarah Johnson,sarah.johnson@mail.com,2024-01-16,Books,Python Guide,3,29.99,89.97,PayPal,Canada,35,10
+TRX003,C003,MIKE WILLIAMS,mike@yahoo.com,2024-01-16,Electronics,USB Cable,10,5.99,,Debit Card,USA,,5
+TRX004,C001,John Smith,john.smith@email.com,2024-01-17,Clothing,T-Shirt,2,19.99,39.98,Credit Card,USA,28,0
+TRX005,C004,emily chen,emily_c@email.com,2024-01-18,Books,Data Science 101,1,45.00,45.00,Credit Card,UK,42,15
+TRX006,C005,Robert Brown,robert@email.com,2024-01-19,Electronics,Monitor,,349.99,,PayPal,USA,51,10
+TRX007,C002,Sarah Johnson,sarah@email.com,2024-01-20,Clothing,Jeans,1,79.99,79.99,Credit Card,Canada,35,20
+TRX008,C006,Jessica Martinez,j.martinez@email.com,2024-01-21,Home,Coffee Maker,1,89.99,89.99,Debit Card,USA,29,0
+TRX009,C007,David Lee,david.lee@hotmail.com,2024-01-22,Electronics,Headphones,2,149.99,299.98,Credit Card,USA,33,0
+TRX010,C003,Mike Williams,mike.williams@email.com,2024-01-23,Books,The Art of Code,1,55.00,55.00,PayPal,USA,34,0
+TRX011,C008,Anna Garcia,anna_garcia@email.com,2024-01-24,Clothing,Dress,3,59.99,179.97,Credit Card,France,26,12
+TRX012,C009,Christopher White,chris@email.com,2024-01-25,Electronics,Keyboard,1,99.99,99.99,Credit Card,Germany,45,5
+TRX013,C010,Laura Martinez,laura@email.com,2024-01-26,Home,Blender,1,129.99,129.99,PayPal,USA,38,25
+TRX014,C002,Sarah Johnson,sarah.j@email.com,2024-01-27,Books,Machine Learning Basics,2,65.00,130.00,Debit Card,Canada,35,0
+TRX015,C011,Michael Johnson,michael.j@email.com,2024-01-28,Electronics,Monitor,1,349.99,349.99,Credit Card,USA,41,0
+TRX016,C012,Patricia Brown,patricia@email.com,2024-01-29,Clothing,Jacket,,299.99,299.99,Credit Card,USA,55,15
+TRX017,C013,ANDREW DAVIS,andrew.davis@yahoo.com,2024-01-30,Books,Web Dev Guide,1,39.99,39.99,PayPal,USA,29,10
+TRX018,C014,Nicole Wilson,nicole_w@email.com,2024-01-31,Home,Toaster,2,34.99,69.98,Credit Card,USA,31,0
+TRX019,C015,Daniel Rodriguez,daniel@email.com,2024-02-01,Electronics,Mouse,5,29.99,,,Credit Card,USA,27,5
+TRX020,C016,Sandra Lee,sandra.lee@email.com,2024-02-02,Clothing,Sweater,1,89.99,89.99,Credit Card,USA,33,0
+TRX021,C002,SARAH JOHNSON,sarah_j@email.com,2024-02-03,Books,Database Design,1,55.00,55.00,PayPal,Canada,35,20
+TRX022,C017,Thomas Clark,thomas@email.com,2024-02-04,Electronics,USB Hub,3,24.99,74.97,Debit Card,USA,50,0
+TRX023,C018,Amanda Taylor,amanda.t@email.com,2024-02-05,Home,Microwave,1,199.99,199.99,Credit Card,USA,42,10
+TRX024,C019,Kevin Miller,kevin_m@email.com,2024-02-06,Clothing,Shoes,1,129.99,129.99,PayPal,USA,38,25
+TRX025,C020,Sophia Anderson,sophia@email.com,2024-02-07,Books,AI Fundamentals,1,49.99,49.99,Credit Card,USA,28,0
+TRX026,C021,Matthew Thomas,matthew.t@email.com,2024-02-08,Electronics,Monitor,1,349.99,349.99,Credit Card,USA,35,5
+TRX027,C022,Olivia Jackson,olivia.j@email.com,2024-02-09,Clothing,Pants,2,69.99,139.98,Debit Card,Canada,31,15
+TRX028,C023,Christopher White,christopher@email.com,2024-02-10,Home,Air Fryer,1,159.99,159.99,Credit Card,USA,44,0
+TRX029,C024,Isabella Harris,isabella.h@email.com,2024-02-11,Books,Python Advanced,1,59.99,59.99,PayPal,USA,26,0
+TRX030,C025,Benjamin Martin,b.martin@email.com,2024-02-12,Electronics,Laptop,1,1299.99,-1299.99,Credit Card,USA,52,40
